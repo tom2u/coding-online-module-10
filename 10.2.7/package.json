@@ -1,0 +1,22 @@
+{
+  "name": "jest-another-rpg",
+  "version": "1.0.0",
+  "description": "role playing game",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tom2u/jest-another-RPG.git"
+  },
+  "author": "tmb",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tom2u/jest-another-RPG/issues"
+  },
+  "homepage": "https://github.com/tom2u/jest-another-RPG#readme",
+  "devDependencies": {
+    "jest": "^25.4.0"
+  }
+}
