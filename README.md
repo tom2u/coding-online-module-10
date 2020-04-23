@@ -20,3 +20,4 @@ Each link is to the state of the webpage at the END of the indicated lesson.
 [10.4.5/jest-another-rpg](https://tom2u.github.io/coding-online-module-10/10.4.5/jest-another-rpg)  
 [10.4.6/jest-another-rpg](https://tom2u.github.io/coding-online-module-10/10.4.6/jest-another-rpg)  
 [10.5.4/jest-another-rpg](https://tom2u.github.io/coding-online-module-10/10.5.4/jest-another-rpg)  
+[10.5.5/jest-another-rpg](https://tom2u.github.io/coding-online-module-10/10.5.5/jest-another-rpg)  
